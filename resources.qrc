@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>DL.html</file>
+    <file>DL.js</file>
+  </qresource>
+</RCC>
